@@ -1,0 +1,206 @@
+[
+  {
+    "SSID": "84DA",
+    "AlwaysSupport": false,
+    "CoolModeSupportBios": [
+      {
+        "MajorVersion": "Beta",
+        "MinorVersion": 22
+      },
+      {
+        "MajorVersion": "Formal",
+        "MinorVersion": 6
+      }
+    ]
+  },
+  {
+    "SSID": "84DB",
+    "AlwaysSupport": true,
+    "CoolModeSupportBios": [
+      {
+        "MajorVersion": "Beta",
+        "MinorVersion": 22
+      },
+      {
+        "MajorVersion": "Formal",
+        "MinorVersion": 6
+      }
+    ]
+  },
+
+  // DRX
+  {
+    "SSID": "8572",
+    "AlwaysSupport": true,
+    "IsPowerAwareSupported": true,
+    "IsMaxFanSupported": true
+  },
+  {
+    "SSID": "8573",
+    "AlwaysSupport": true,
+    "IsPowerAwareSupported": true,
+    "IsMaxFanSupported": true
+  },
+
+  // Gamora 19C1
+  {
+    "SSID": "8574",
+    "AlwaysSupport": true,
+    "IsPowerAwareSupported": true
+  },
+  {
+    "SSID": "8575",
+    "AlwaysSupport": false
+  },
+  {
+    "SSID": "860A",
+    "AlwaysSupport": false
+  },
+
+  // Gamora 20C1
+  {
+    "SSID": "87B5",
+    "AlwaysSupport": false
+  },
+
+  // Milos
+  {
+    "SSID": "8600",
+    "AlwaysSupport": true,
+    "IsPowerAwareSupported": true,
+    "IsMaxFanSupported": true
+  },
+  {
+    "SSID": "8601",
+    "AlwaysSupport": false,
+    "IsMaxFanSupported": true
+  },
+  {
+    "SSID": "8602", //Milos Studio OLED
+    "AlwaysSupport": true,
+    "IsPowerAwareSupported": true,
+    "IsMaxFanSupported": true
+  },
+  {
+    "SSID": "8605", //Milos Studio
+    "AlwaysSupport": true,
+    "IsPowerAwareSupported": true,
+    "IsMaxFanSupported": true
+  },
+  {
+    "SSID": "8606", //Milos Studio
+    "AlwaysSupport": true,
+    "IsPowerAwareSupported": true,
+    "IsMaxFanSupported": true
+  },
+  {
+    "SSID": "8607",
+    "AlwaysSupport": true,
+    "IsPowerAwareSupported": true,
+    "IsMaxFanSupported": true
+  },
+  {
+    "SSID": "8746",
+    "AlwaysSupport": true,
+    "IsPowerAwareSupported": true,
+    "IsMaxFanSupported": true
+  },
+  {
+    "SSID": "8747",
+    "AlwaysSupport": false,
+    "IsMaxFanSupported": true
+  },
+  {
+    "SSID": "8749",
+    "AlwaysSupport": true,
+    "IsPowerAwareSupported": true,
+    "IsMaxFanSupported": true
+  },
+  {
+    "SSID": "874A",
+    "AlwaysSupport": true,
+    "IsPowerAwareSupported": true,
+    "IsMaxFanSupported": true
+  },
+
+  // Santorini
+  {
+    "SSID": "8603",
+    "AlwaysSupport": true,
+    "IsMaxFanSupported": true
+  },
+  {
+    "SSID": "8604",
+    "AlwaysSupport": false,
+    "IsMaxFanSupported": true
+  },
+  {
+    "SSID": "8748",
+    "AlwaysSupport": true,
+    "IsPowerAwareSupported": true,
+    "IsMaxFanSupported": true
+  },
+
+  // Starmade
+  {
+    "SSID": "878A",
+    "AlwaysSupport": true,
+    "IsPowerAwareSupported": true,
+    "Sku": "N18E"
+  },
+  {
+    "SSID": "878B",
+    "AlwaysSupport": true,
+    "IsPowerAwareSupported": true,
+    "Sku": "N18E"
+  },
+  {
+    "SSID": "878C",
+    "AlwaysSupport": false,
+    "Sku": "N18P"
+  },
+
+  // Starmade - 21C1
+  {
+    "SSID": "88C8", // GN20
+    "AlwaysSupport": true,
+    "Sku": "N20E"
+  },
+  {
+    "SSID": "88CB", // TGL
+    "AlwaysSupport": true,
+    "Sku": "TGL"
+  },
+
+  // Valkyrie
+  {
+    "SSID": "8786",
+    "AlwaysSupport": true,
+    "IsMaxFanSupported": true,
+    "Sku": "N18E"
+  },
+  {
+    "SSID": "8787",
+    "AlwaysSupport": true,
+    "IsMaxFanSupported": true,
+    "Sku": "N18E"
+  },
+  {
+    "SSID": "8788",
+    "AlwaysSupport": false,
+    "IsMaxFanSupported": true,
+    "Sku": "N18P"
+  },
+
+  // Valkyrie (Cezzane) - 21C1
+  {
+    "SSID": "88D1", // GN20-E3
+    "AlwaysSupport": true,
+    "Sku": "N20E"
+  },
+  {
+    "SSID": "88D2", // GN20-E5
+    "AlwaysSupport": true,
+    "Sku": "N20E"
+  }
+]

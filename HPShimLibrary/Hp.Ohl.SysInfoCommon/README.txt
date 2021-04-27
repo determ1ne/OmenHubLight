@@ -1,0 +1,1 @@
+﻿Replace class "HpseuCommon" in HP System Event Utilities assemblies.

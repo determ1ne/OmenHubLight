@@ -1,0 +1,326 @@
+[
+  {
+    "Name": "Dragons10",
+    "DisplayName": "OMEN X 17 LAPTOP",
+    "ProductNum": ["83A5", "83A6"],
+    "Feature": ["SystemInfo", "Overclocking", "DragonLighting", "NetworkBooster", "Macros"],
+    "BackgroundFeature": ["NetworkBooster", "DragonKBMcu", "DragonChassisLighting", "Overclocking"]
+  },
+  {
+    "Name": "Hurricane10",
+    "DisplayName": "OMEN 880 DESKTOP",
+    "ProductNum": ["8307", "8308", "8309", "8437", "84F6"],
+    "Feature": ["SystemInfo", "Overclocking", "NetworkBooster"],
+    "BackgroundFeature": ["NetworkBooster"]
+  },
+  {
+    "Name": "Pirates10",
+    "DisplayName": "OMEN 15 LAPTOP",
+    "ProductNum": ["838F", "8390", "8391"],
+    "Feature": ["SystemInfo", "NetworkBooster"],
+    "BackgroundFeature": ["NetworkBooster"]
+  },
+  {
+    "Name": "Pirates11",
+    "DisplayName": "OMEN 15 LAPTOP",
+    "ProductNum": ["8466", "8467", "8468"],
+    "Feature": ["SystemInfo", "NetworkBooster", "FourZone"],
+    "BackgroundFeature": ["NetworkBooster", "FourZone"]
+  },
+  {
+    "Name": "Marlins10",
+    "DisplayName": "OMEN 17 LAPTOP",
+    "ProductNum": ["8392", "8393", "8394"],
+    "Feature": ["SystemInfo", "NetworkBooster", "Macros"],
+    "BackgroundFeature": ["NetworkBooster", "MarlinsMacro"]
+  },
+  {
+    "Name": "Marlins11",
+    "DisplayName": "OMEN 17 LAPTOP",
+    "ProductNum": ["8469", "846A", "846B"],
+    "Feature": ["SystemInfo", "NetworkBooster", "Macros", "FourZone"],
+    "BackgroundFeature": ["NetworkBooster", "FourZone", "MarlinsMacro"]
+  },
+  {
+    "Name": "Gamora10",
+    "DisplayName": "OMEN 15 LAPTOP",
+    "ProductNum": ["84DA", "84DB", "84DC"],
+    "Feature": ["SystemInfo", "NetworkBooster", "FourZone", "PerformanceControl"],
+    "BackgroundFeature": ["NetworkBooster", "FourZone", "PerformanceControl"]
+  },
+  {
+    "Name": "Gamora11",
+    "DisplayName": "OMEN 15",
+    "ProductNum": [
+      "8574", // 19C1
+      "8575", // 19C1
+      "860A", // 19C1
+      "87B5" // 20C1 CML+N18P
+    ],
+    "Feature": ["SystemInfo", "NetworkBooster", "FourZone", "PerformanceControl"],
+    "BackgroundFeature": ["NetworkBooster", "FourZone", "PerformanceControl"]
+  },
+  {
+    "Name": "Perseus10",
+    "DisplayName": "OMEN X DESKTOP",
+    "ProductNum": ["8375"],
+    "Feature": ["SystemInfo", "Overclocking", "PerseusLighting", "NetworkBooster"],
+    "BackgroundFeature": ["NetworkBooster", "PerseusLighting", "Overclocking"]
+  },
+  {
+    "Name": "Typhon12",
+    "DisplayName": "OMEN X DESKTOP",
+    "ProductNum": ["839F"],
+    "Feature": ["SystemInfo", "Overclocking", "TyphonLighting", "NetworkBooster"],
+    "BackgroundFeature": ["NetworkBooster", "TyphonLightingBg", "Overclocking"]
+  },
+  {
+    "Name": "Tracer10",
+    "DisplayName": "OMEN OBELISK DESKTOP",
+    "ProductNum": ["84FD", "8509", "84FE"],
+    "Feature": ["SystemInfo", "Overclocking", "TracerLighting", "NetworkBooster"],
+    "BackgroundFeature": ["NetworkBooster", "TracerLightingBg", "Overclocking"]
+  },
+  {
+    "Name": "DRX",
+    "DisplayName": "OMEN X 2S LAPTOP",
+    "ProductNum": ["8572", "8573"],
+    "Feature": [
+      "SystemInfo", "Overclocking", "DraxLighting", "NetworkBooster", "PerformanceControl", "DrxMirror", "Settings"
+    ],
+    "BackgroundFeature": ["NetworkBooster", "PerformanceControl", "DraxLightingBg", "DraxSettingBg"]
+  },
+  {
+    "Name": "Milos10",
+    "DisplayName": "OMEN 15",
+    "ProductNum": [
+      "8600", // 19C1 N18E
+      "8601", // 19C1 N18P
+      "8602", // 19C1 SD N18E-OLED
+      "8605", // 19C1 SD N18E-non-OLED
+      "8606", // 19C1 GRD N18E-OLED
+      "8607", // 20C1 GRD N18E-OLED
+      "8746", // 20C1 GRD N18E-non-OLED
+      "8747", // 20C1 N18P
+      "8749", // 20C1 SD N18E-OLED
+      "874A" // 20C1 SD N18E-non-OLED
+    ],
+    "Feature": ["SystemInfo", "Undervolting", "NetworkBooster", "FourZone", "PerformanceControl"],
+    "BackgroundFeature": ["NetworkBooster", "FourZone", "PerformanceControl", "Overclocking"]
+  },
+  {
+    "Name": "Santorini10",
+    "DisplayName": "OMEN 17",
+    "ProductNum": [
+      "8603", // 19C1 N18E
+      "8604", // 19C1 N18P
+      "8748" // 20C1 N18E
+    ],
+    "Feature": ["SystemInfo", "Undervolting", "NetworkBooster", "Macros", "FourZone", "PerformanceControl"],
+    "BackgroundFeature": ["NetworkBooster", "FourZone", "MarlinsMacro", "PerformanceControl", "Overclocking"]
+  },
+  {
+    "Name": "HolmesG",
+    "DisplayName": "PAVILION GAMING DESKTOP",
+    "ProductNum": [
+      "8643", // 19C2
+      "8653", // 19C2 Rother
+      "8767", // 20C1 Baker
+      "87D6", // 21C1 Erica3
+      "8860" // 21C1 Stark
+    ],
+    "Feature": ["SystemInfo", "NetworkBooster", "Lumiere2Lighting"],
+    "BackgroundFeature": ["NetworkBooster", "Lumiere2LightingBg"]
+  },
+  {
+    "Name": "TracerDF_EdorasDF", // Tracer 19C2 - EdorasDF
+    "DisplayName": "OMEN OBELISK DESKTOP",
+    "ProductNum": ["86D2"],
+    "Feature": ["SystemInfo", "NetworkBooster"],
+    "BackgroundFeature": ["NetworkBooster"]
+  },
+  {
+    "Name": "TracerDF_Moria2", // Tracer 19C2 - Moria2
+    "DisplayName": "OMEN OBELISK DESKTOP",
+    "ProductNum": ["86D3"],
+    "Feature": ["SystemInfo", "TracerLighting", "NetworkBooster"],
+    "BackgroundFeature": ["NetworkBooster", "TracerLightingBg"]
+  },
+  {
+    "Name": "Orisa10",
+    "DisplayName": "OMEN DESKTOP",
+    "ProductNum": [
+      "8703",
+      "8704"
+    ],
+    "Feature": ["SystemInfo", "Overclocking", "NetworkBooster", "OrisaLighting", "FanControl"],
+    "BackgroundFeature": ["NetworkBooster", "Overclocking", "OrisaLightingBg", "FanControlBg"]
+  },
+  {
+    "Name": "Orisa11",
+    "DisplayName": "OMEN DESKTOP",
+    "ProductNum": [
+      "886B", //21C1
+      "886C" //21C1
+    ],
+    "Feature": ["SystemInfo", "Overclocking", "NetworkBooster", "OrisaLighting", "PerformanceControl"],
+    "BackgroundFeature": ["NetworkBooster", "Overclocking", "OrisaLightingBg", "PerformanceControl"]
+  },
+  {
+    "Name": "OrisaA",
+    "DisplayName": "OMEN DESKTOP",
+    "ProductNum": [
+      "87C3"
+    ],
+    "Feature": ["SystemInfo", "NetworkBooster", "OrisaLighting", "FanControl"],
+    "BackgroundFeature": ["NetworkBooster", "OrisaLightingBg", "FanControlBg"]
+  },
+  {
+    "Name": "OrisaA11",
+    "DisplayName": "OMEN DESKTOP",
+    "ProductNum": [
+      "8876" //21C1 
+    ],
+    "Feature": ["SystemInfo", "Overclocking", "NetworkBooster", "OrisaLighting", "PerformanceControl"],
+    "BackgroundFeature": ["NetworkBooster", "OrisaLightingBg", "PerformanceControl", "PowerOptionBg"]
+  },
+  {
+    "Name": "Cyprus",
+    "DisplayName": "PAVILION GAMING 15",
+    "ProductNum": [
+      "85FA", // 19C1 - CFL-HR+N17P
+      "85FB", // 19C1 - CFL-HR+N18E
+      "85FC", // 19C1 - CFL-HR+N18P
+      "8740", // 20C1 - CMLH+N17P
+      "8741", // 20C1 - CMLH+N18E
+      "8742", // 20C1 - CMLH+N18P
+      "88E4", // 21C1 - NV GN20P
+      "88E6" // 21C1 - NV N18
+    ],
+    "Feature": ["SystemInfo", "NetworkBooster"],
+    "BackgroundFeature": ["NetworkBooster"]
+  },
+  {
+    "Name": "Mallorca",
+    "DisplayName": "PAVILION GAMING 17",
+    "ProductNum": [
+      "85FD", // 19C1 - CFLHR+N17P
+      "85FE", // 19C1 - CFLHR+N18E
+      "85FF", // 19C1 - CFLHR+N18P
+      "8744", // 20C1 - CMLH+N18E
+      "8745", // 20C1 - CMLH+N18P
+      "88E5", // 21C1	- NV GN20P
+      "88E7" // 21C1 - NV N18
+    ],
+    "Feature": ["SystemInfo", "NetworkBooster"],
+    "BackgroundFeature": ["NetworkBooster"]
+  },
+  {
+    "Name": "Nimbatus",
+    "DisplayName": "PAVILION GAMING 16",
+    "ProductNum": ["87AA", "87AD", "87AE", "87AF", "880E"],
+    "Feature": ["SystemInfo", "NetworkBooster"],
+    "BackgroundFeature": ["NetworkBooster"]
+  },
+  {
+    "Name": "Duskers",
+    "DisplayName": "PAVILION GAMING 15",
+    "ProductNum": [
+      "86D4", // 19C2 - N17P-G0-K1
+      "86D5", // 19C2 - N18P-G0
+      "86D6", // 19C2 -N18E-G0
+      "87B0", // 20C1 - AMD Renoir platform with N17P-G0
+      "87B1", // 20C1 - AMD Renoir platform with N18P-G61
+      "87B2", // 20C1 - AMD Renoir platform with N18P-G62
+      "87B3", // 20C1 - AMD Renoir platform with N18E-G0 MAX-Q
+      "88DD", // 21C1 Refresh - Cezanne-H, N18E-G61 103C
+      "88DE", // 21C1 Refresh - Cezanne-H, GN20-P0	103C
+      "88DF" // 21C1 Refresh - Cezanne-H, GN20-P1	103C
+    ],
+    "Feature": ["SystemInfo", "NetworkBooster"],
+    "BackgroundFeature": ["NetworkBooster"]
+  },
+  {
+    "Name": "Starmade",
+    "DisplayName": "OMEN 15",
+    "ProductNum": [
+      "878A", // 20C1
+      "878B",
+      "878C",
+      "88C8", // 21C1 GN20
+      "88CB" // 21C1 TGL
+    ],
+    "Feature": [
+      "SystemInfo", "Undervolting", "NetworkBooster", "FourZone", "DraxLighting", "PerformanceControl",
+      "GraphicsSwitcher"
+    ],
+    "BackgroundFeature": [
+      "NetworkBooster", "OmenKey", "FourZone", "PerformanceControl", "DraxLightingBg", "Overclocking"
+    ]
+  },
+  {
+    "Name": "Valkyrie",
+    "DisplayName": "OMEN 15",
+    "ProductNum": [
+      "8786", // 20C1
+      "8787", // 20C1
+      "8788", // 20C1
+      "88D1", // 21C1 - GN20-E3
+      "88D2" // 21C1 - GN20-E5
+    ],
+    "Feature": ["SystemInfo", "NetworkBooster", "FourZone", "PerformanceControl"],
+    "BackgroundFeature": ["NetworkBooster", "OmenKey", "FourZone", "PerformanceControl"]
+  },
+  {
+    "Name": "Modena",
+    "DisplayName": "Modena",
+    "ProductNum": [
+      "8873"
+    ],
+    "Feature": ["SystemInfo"],
+    "BackgroundFeature": []
+  },
+  {
+    "Name": "HPPC",
+    "DisplayName": "HP PC",
+    "ProductNum": [
+      "xxxx"
+    ],
+    "Feature": ["SystemInfo"],
+    "BackgroundFeature": []
+  },
+  {
+    "Name": "Ralph",
+    "DisplayName": "OMEN 16",
+    "ProductNum": [
+      "88F4", // GN20E (E3/E5) non DDS
+      "88FD", // GN20E DDS (E5, TBC)
+      "88F5", // GN20P (P0/P1)
+      "88F6" // N18P (G61)
+    ],
+    "Feature": ["SystemInfo", "NetworkBooster", "PerformanceControl"],
+    "BackgroundFeature": ["NetworkBooster", "OmenKey", "PerformanceControl"]
+  },
+  {
+    "Name": "Cybug",
+    "DisplayName": "OMEN 17",
+    "ProductNum": [
+      "88F7", // GN20E (E3/E5/E7) non DDS
+      "88FE" // GN20E DDS (E7, TBC)
+    ],
+    "Feature": ["SystemInfo", "NetworkBooster", "PerformanceControl"],
+    "BackgroundFeature": ["NetworkBooster", "OmenKey", "PerformanceControl"]
+  },
+  {
+    "Name": "Taffyta",
+    "DisplayName": "VICTUS Laptop",
+    "ProductNum": [
+      "88EE", // 21C1 - Cezanne-H, GN20-E3
+      "88EB", // 21C1 - Cezanne-H, N18E-G61-A
+      "88EC", // 21C1 - Cezanne-H, GN20-P0
+      "88ED" // 21C1 - Cezanne-H, GN20-P1
+    ],
+    "Feature": ["SystemInfo", "NetworkBooster"], //TODO: , "PerformanceControl" ],
+    "BackgroundFeature": ["NetworkBooster"] //TODO: , "PerformanceControl" ]
+  }
+]
