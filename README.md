@@ -31,3 +31,5 @@ Since OMEN Gaming Hub is a huge project, I only implemented a small part of it w
 But if you want, you can easily port what you need, because the fundamental chores are available in a similar form to what HP programed in their applications. Happy hacking!
 
 **REQUIRES .NET 5**
+
+Build and run **OmenHubLight** is enough. OmenDriverPatcher enables you to use LPC service from HP driver, whose client is provided in `NativeRpcClient.dll` from OMEN Gaming Hub or HP System Event Utility app package.
