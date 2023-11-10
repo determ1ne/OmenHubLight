@@ -1,3 +1,9 @@
+# Project Archived
+
+This project originated from my attempt to replace heavy HP programs, back when the "OMEN Gaming Hub" was named "HP OMEN Command Center". It was designed specifically for the 4th gen OMEN Laptop and is unlikely to be helpful on any other OMEN series products. Since my laptop has been broken(battery, keyboard), the project was abandoned :(
+
+As of 2023, Linux kernel has built-in support for some HP WMI interfaces, and there are numerous community driven projects available for modern OMEN laptops.
+
 # OMEN Hub Light
 
 OMEN Hub Light is an opensource and lightweight substitute for a series programs from HP. It is based on the reverse engineering, and trying to keep a similar architecture to HP's programs for keeping update with HP. 
